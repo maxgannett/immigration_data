@@ -1,21 +1,21 @@
-﻿year,jurisdiction ,Total 
-2011,Total administrative arrests,"16,261"
+﻿year,jurisdiction,Total
+2011,Total administrative arrests,16261
 2011,"Atlanta, GA",806
 2011,"Baltimore, MD",316
 2011,"Boston, MA",449
 2011,"Buffalo, NY",138
 2011,"Charlotte, NC",0
-2011,"Chicago, IL","1,451"
-2011,"Dallas, T0",557
-2011,"Denver, CO","1,180"
+2011,"Chicago, IL",1451
+2011,"Dallas, TX",557
+2011,"Denver, CO",1180
 2011,"Detroit, MI",365
-2011,"El Paso, T0",513
+2011,"El Paso, TX",513
 2011,"Honolulu, HI",167
-2011,"Houston, T0",743
+2011,"Houston, TX",743
 2011,"Kansas City, MO",0
 2011,"Las Vegas, NV",0
 2011,"Los Angeles, CA",640
-2011,"Miami, FL","1,038"
+2011,"Miami, FL",1038
 2011,"Nashville, TN",0
 2011,"New Orleans, LA",923
 2011,"New York, NY",600
@@ -23,7 +23,7 @@
 2011,"Philadelphia, PA",578
 2011,"Phoeni0, AZ",401
 2011,"Saint Paul, MN",582
-2011,"San Antonio, T0","1,525"
+2011,"San Antonio, TX",1525
 2011,"San Diego, CA",304
 2011,"San Francisco, CA",749
 2011,"San Juan, PR",158
@@ -31,23 +31,23 @@
 2011,"Tampa, FL",488
 2011,"Washington, DC",489
 2011,Other SAC jurisdictions abroad,70
-2012,Total administrative arrests,"15,937"
+2012,Total administrative arrests,15937
 2012,"Atlanta, GA",578
 2012,"Baltimore, MD",135
 2012,"Boston, MA",346
 2012,"Buffalo, NY",183
 2012,"Charlotte, NC",0
-2012,"Chicago, IL","1,657"
-2012,"Dallas, T0",508
+2012,"Chicago, IL",1657
+2012,"Dallas, TX",508
 2012,"Denver, CO",644
 2012,"Detroit, MI",257
-2012,"El Paso, T0",446
+2012,"El Paso, TX",446
 2012,"Honolulu, HI",197
-2012,"Houston, T0","1,044"
+2012,"Houston, TX",1044
 2012,"Kansas City, MO",0
 2012,"Las Vegas, NV",0
 2012,"Los Angeles, CA",536
-2012,"Miami, FL","1,030"
+2012,"Miami, FL",1030
 2012,"Nashville, TN",0
 2012,"New Orleans, LA",686
 2012,"New York, NY",461
@@ -55,7 +55,7 @@
 2012,"Philadelphia, PA",373
 2012,"Phoeni0, AZ",403
 2012,"Saint Paul, MN",381
-2012,"San Antonio, T0","3,599"
+2012,"San Antonio, TX",3599
 2012,"San Diego, CA",506
 2012,"San Francisco, CA",355
 2012,"San Juan, PR",178
@@ -63,19 +63,19 @@
 2012,"Tampa, FL",421
 2012,"Washington, DC",347
 2012,Other SAC jurisdictions abroad,48
-2013,Total administrative arrests,"11,996"
+2013,Total administrative arrests,11996
 2013,"Atlanta, GA",337
 2013,"Baltimore, MD",75
 2013,"Boston, MA",225
 2013,"Buffalo, NY",153
 2013,"Charlotte, NC",0
-2013,"Chicago, IL","1,239"
-2013,"Dallas, T0",256
+2013,"Chicago, IL",1239
+2013,"Dallas, TX",256
 2013,"Denver, CO",226
 2013,"Detroit, MI",176
-2013,"El Paso, T0",367
+2013,"El Paso, TX",367
 2013,"Honolulu, HI",95
-2013,"Houston, T0","1,071"
+2013,"Houston, TX",1071
 2013,"Kansas City, MO",0
 2013,"Las Vegas, NV",0
 2013,"Los Angeles, CA",507
@@ -87,7 +87,7 @@
 2013,"Philadelphia, PA",178
 2013,"Phoeni0, AZ",457
 2013,"Saint Paul, MN",174
-2013,"San Antonio, T0","2,945"
+2013,"San Antonio, TX",2945
 2013,"San Diego, CA",398
 2013,"San Francisco, CA",252
 2013,"San Juan, PR",242
@@ -95,19 +95,19 @@
 2013,"Tampa, FL",168
 2013,"Washington, DC",303
 2013,Other SAC jurisdictions abroad,50
-2014,Total administrative arrests,"11,626"
+2014,Total administrative arrests,11626
 2014,"Atlanta, GA",224
 2014,"Baltimore, MD",133
 2014,"Boston, MA",173
 2014,"Buffalo, NY",118
 2014,"Charlotte, NC",0
 2014,"Chicago, IL",909
-2014,"Dallas, T0",328
+2014,"Dallas, TX",328
 2014,"Denver, CO",128
 2014,"Detroit, MI",229
-2014,"El Paso, T0",447
+2014,"El Paso, TX",447
 2014,"Honolulu, HI",72
-2014,"Houston, T0",924
+2014,"Houston, TX",924
 2014,"Kansas City, MO",0
 2014,"Las Vegas, NV",0
 2014,"Los Angeles, CA",401
@@ -119,7 +119,7 @@
 2014,"Philadelphia, PA",233
 2014,"Phoeni0, AZ",258
 2014,"Saint Paul, MN",180
-2014,"San Antonio, T0","3,677"
+2014,"San Antonio, TX",3677
 2014,"San Diego, CA",311
 2014,"San Francisco, CA",176
 2014,"San Juan, PR",65
@@ -127,19 +127,19 @@
 2014,"Tampa, FL",181
 2014,"Washington, DC",299
 2014,Other SAC jurisdictions abroad,72
-2015,Total administrative arrests,"7,288"
+2015,Total administrative arrests,7288
 2015,"Atlanta, GA",166
 2015,"Baltimore, MD",130
 2015,"Boston, MA",157
 2015,"Buffalo, NY",87
 2015,"Charlotte, NC",0
 2015,"Chicago, IL",750
-2015,"Dallas, T0",215
+2015,"Dallas, TX",215
 2015,"Denver, CO",74
 2015,"Detroit, MI",231
-2015,"El Paso, T0",394
+2015,"El Paso, TX",394
 2015,"Honolulu, HI",75
-2015,"Houston, T0",355
+2015,"Houston, TX",355
 2015,"Kansas City, MO",0
 2015,"Las Vegas, NV",0
 2015,"Los Angeles, CA",493
@@ -151,7 +151,7 @@
 2015,"Philadelphia, PA",158
 2015,"Phoeni0, AZ",207
 2015,"Saint Paul, MN",94
-2015,"San Antonio, T0","1,438"
+2015,"San Antonio, TX",1438
 2015,"San Diego, CA",211
 2015,"San Francisco, CA",96
 2015,"San Juan, PR",41
@@ -159,19 +159,19 @@
 2015,"Tampa, FL",138
 2015,"Washington, DC",136
 2015,Other SAC jurisdictions abroad,18
-2016,Total administrative arrests,"4,330"
+2016,Total administrative arrests,4330
 2016,"Atlanta, GA",75
 2016,"Baltimore, MD",34
 2016,"Boston, MA",91
 2016,"Buffalo, NY",42
 2016,"Charlotte, NC",0
 2016,"Chicago, IL",379
-2016,"Dallas, T0",131
+2016,"Dallas, TX",131
 2016,"Denver, CO",90
 2016,"Detroit, MI",98
-2016,"El Paso, T0",343
+2016,"El Paso, TX",343
 2016,"Honolulu, HI",60
-2016,"Houston, T0",251
+2016,"Houston, TX",251
 2016,"Kansas City, MO",0
 2016,"Las Vegas, NV",0
 2016,"Los Angeles, CA",210
@@ -183,7 +183,7 @@
 2016,"Philadelphia, PA",87
 2016,"Phoeni0, AZ",337
 2016,"Saint Paul, MN",50
-2016,"San Antonio, T0",662
+2016,"San Antonio, TX",662
 2016,"San Diego, CA",145
 2016,"San Francisco, CA",61
 2016,"San Juan, PR",15
@@ -191,19 +191,19 @@
 2016,"Tampa, FL",45
 2016,"Washington, DC",73
 2016,Other SAC jurisdictions abroad,50
-2017,Total administrative arrests,"7,539"
+2017,Total administrative arrests,7539
 2017,"Atlanta, GA",226
 2017,"Baltimore, MD",132
 2017,"Boston, MA",137
 2017,"Buffalo, NY",126
 2017,"Charlotte, NC",0
 2017,"Chicago, IL",848
-2017,"Dallas, T0",224
+2017,"Dallas, TX",224
 2017,"Denver, CO",129
 2017,"Detroit, MI",173
-2017,"El Paso, T0",723
+2017,"El Paso, TX",723
 2017,"Honolulu, HI",260
-2017,"Houston, T0",399
+2017,"Houston, TX",399
 2017,"Kansas City, MO",0
 2017,"Las Vegas, NV",0
 2017,"Los Angeles, CA",229
@@ -215,7 +215,7 @@
 2017,"Philadelphia, PA",182
 2017,"Phoeni0, AZ",348
 2017,"Saint Paul, MN",110
-2017,"San Antonio, T0",693
+2017,"San Antonio, TX",693
 2017,"San Diego, CA",86
 2017,"San Francisco, CA",203
 2017,"San Juan, PR",90
@@ -223,31 +223,31 @@
 2017,"Tampa, FL",167
 2017,"Washington, DC",143
 2017,Other SAC jurisdictions abroad,36
-2018,Total administrative arrests,"9,843"
+2018,Total administrative arrests,9843
 2018,"Atlanta, GA",284
 2018,"Baltimore, MD",155
 2018,"Boston, MA",166
 2018,"Buffalo, NY",121
 2018,"Charlotte, NC",0
 2018,"Chicago, IL",776
-2018,"Dallas, T0",637
+2018,"Dallas, TX",637
 2018,"Denver, CO",258
 2018,"Detroit, MI",232
-2018,"El Paso, T0",996
+2018,"El Paso, TX",996
 2018,"Honolulu, HI",174
-2018,"Houston, T0",451
+2018,"Houston, TX",451
 2018,"Kansas City, MO",0
 2018,"Las Vegas, NV",0
 2018,"Los Angeles, CA",545
 2018,"Miami, FL",381
 2018,"Nashville, TN",0
-2018,"New Orleans, LA","1,005"
+2018,"New Orleans, LA",1005
 2018,"New York, NY",309
 2018,"Newark, NJ",360
 2018,"Philadelphia, PA",254
 2018,"Phoeni0, AZ",394
 2018,"Saint Paul, MN",317
-2018,"San Antonio, T0",955
+2018,"San Antonio, TX",955
 2018,"San Diego, CA",56
 2018,"San Francisco, CA",230
 2018,"San Juan, PR",108
@@ -255,19 +255,19 @@
 2018,"Tampa, FL",328
 2018,"Washington, DC",93
 2018,Other SAC jurisdictions abroad,149
-2019,Total administrative arrests,"10,939"
+2019,Total administrative arrests,10939
 2019,"Atlanta, GA",232
 2019,"Baltimore, MD",91
 2019,"Boston, MA",171
 2019,"Buffalo, NY",68
 2019,"Charlotte, NC",86
 2019,"Chicago, IL",581
-2019,"Dallas, T0",647
+2019,"Dallas, TX",647
 2019,"Denver, CO",265
 2019,"Detroit, MI",192
-2019,"El Paso, T0","1,499"
+2019,"El Paso, TX",1499
 2019,"Honolulu, HI",147
-2019,"Houston, T0",496
+2019,"Houston, TX",496
 2019,"Kansas City, MO",227
 2019,"Las Vegas, NV",79
 2019,"Los Angeles, CA",313
@@ -279,7 +279,7 @@
 2019,"Philadelphia, PA",256
 2019,"Phoeni0, AZ",728
 2019,"Saint Paul, MN",97
-2019,"San Antonio, T0","2,154"
+2019,"San Antonio, TX",2154
 2019,"San Diego, CA",95
 2019,"San Francisco, CA",210
 2019,"San Juan, PR",95
@@ -287,19 +287,19 @@
 2019,"Tampa, FL",224
 2019,"Washington, DC",113
 2019,Other SAC jurisdictions abroad,104
-2020,Total administrative arrests,"9,974"
+2020,Total administrative arrests,9974
 2020,"Atlanta, GA",278
 2020,"Baltimore, MD",94
 2020,"Boston, MA",131
 2020,"Buffalo, NY",61
 2020,"Charlotte, NC",101
 2020,"Chicago, IL",363
-2020,"Dallas, T0",470
+2020,"Dallas, TX",470
 2020,"Denver, CO",232
 2020,"Detroit, MI",166
-2020,"El Paso, T0","2,211"
+2020,"El Paso, TX",2211
 2020,"Honolulu, HI",115
-2020,"Houston, T0",221
+2020,"Houston, TX",221
 2020,"Kansas City, MO",159
 2020,"Las Vegas, NV",112
 2020,"Los Angeles, CA",272
@@ -311,8 +311,8 @@
 2020,"Philadelphia, PA",83
 2020,"Phoeni0, AZ",332
 2020,"Saint Paul, MN",29
-2020,"San Antonio, T0","1,523"
-2020,"San Diego, CA","1,045"
+2020,"San Antonio, TX",1523
+2020,"San Diego, CA",1045
 2020,"San Francisco, CA",119
 2020,"San Juan, PR",67
 2020,"Seattle, WA",156
