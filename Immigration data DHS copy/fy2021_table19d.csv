@@ -1,0 +1,881 @@
+﻿year,country,region,total_year
+2012,Total,,10575
+2012,Afghanistan,Asia,33
+2012,Albania,Europe,67
+2012,Angola,Africa,0
+2012,Armenia,Asia,72
+2012,Azerbaijan,Asia,16
+2012,Bangladesh,Asia,57
+2012,Belarus,Europe,71
+2012,Benin,Africa,5
+2012,Bolivia,South America,7
+2012,Brazil,South America,13
+2012,Bulgaria,Europe,16
+2012,Burkina Faso,Africa,53
+2012,Burma,Asia,62
+2012,Burundi,Africa,10
+2012,Cameroon,Africa,150
+2012,Central African Republic,Africa,0
+2012,Chad,Africa,25
+2012,"China, People's Republic",Asia,5000
+2012,Colombia,South America,97
+2012,"Congo, Democratic Republic",Africa,14
+2012,"Congo, Republic",Africa,42
+2012,Cote d'Ivoire,Africa,56
+2012,Cuba,North America,6
+2012,Djibouti,Africa,5
+2012,Dominican Republic,North America,4
+2012,Ecuador,South America,15
+2012,Egypt,Africa,277
+2012,El Salvador,North America,156
+2012,Eritrea,Africa,331
+2012,Ethiopia,Africa,406
+2012,Fiji,Oceania,10
+2012,Gambia,Africa,70
+2012,Georgia,Asia,18
+2012,Ghana,Africa,7
+2012,Guatemala,North America,192
+2012,Guinea,Africa,124
+2012,Haiti,North America,34
+2012,Honduras,North America,73
+2012,India,Asia,250
+2012,Indonesia,Asia,98
+2012,Iran,Asia,88
+2012,Iraq,Asia,91
+2012,Jamaica,North America,11
+2012,Jordan,Asia,11
+2012,Kazakhstan,Asia,13
+2012,Kenya,Africa,69
+2012,Kosovo,Europe,32
+2012,Kyrgyzstan,Asia,25
+2012,Lebanon,Asia,21
+2012,Liberia,Africa,10
+2012,Libya,Africa,6
+2012,Mali,Africa,68
+2012,Mauritania,Africa,26
+2012,Mexico,North America,117
+2012,Moldova,Europe,88
+2012,Mongolia,Asia,37
+2012,Nepal,Asia,379
+2012,Nicaragua,North America,9
+2012,Nigeria,Africa,26
+2012,Pakistan,Asia,150
+2012,Peru,South America,14
+2012,Philippines,Asia,8
+2012,Romania,Europe,8
+2012,Russia,Europe,155
+2012,Rwanda,Africa,20
+2012,Saudi Arabia,Asia,9
+2012,Senegal,Africa,25
+2012,Serbia and Montenegro (former),Europe,45
+2012,Sierra Leone,Africa,20
+2012,Somalia,Africa,82
+2012,Soviet Union (former),Europe,255
+2012,Sri Lanka,Asia,101
+2012,Sudan,Africa,36
+2012,Syria,Asia,28
+2012,Tajikistan,Asia,8
+2012,Togo,Africa,13
+2012,Turkey,Europe,22
+2012,Turkmenistan,Asia,9
+2012,Uganda,Africa,24
+2012,Ukraine,Europe,52
+2012,Uzbekistan,Asia,36
+2012,Venezuela,South America,100
+2012,Vietnam,Asia,10
+2012,Yemen,Asia,14
+2012,Zimbabwe,Africa,34
+2012,All other countries1,Unknown,130
+2012,Unknown,Unknown,92
+2013,Total,,9767
+2013,Afghanistan,Asia,16
+2013,Albania,Europe,60
+2013,Angola,Africa,0
+2013,Armenia,Asia,51
+2013,Azerbaijan,Asia,6
+2013,Bangladesh,Asia,65
+2013,Belarus,Europe,72
+2013,Benin,Africa,10
+2013,Bolivia,South America,4
+2013,Brazil,South America,14
+2013,Bulgaria,Europe,5
+2013,Burkina Faso,Africa,58
+2013,Burma,Asia,33
+2013,Burundi,Africa,12
+2013,Cameroon,Africa,136
+2013,Central African Republic,Africa,8
+2013,Chad,Africa,4
+2013,"China, People's Republic",Asia,4510
+2013,Colombia,South America,67
+2013,"Congo, Democratic Republic",Africa,25
+2013,"Congo, Republic",Africa,41
+2013,Cote d'Ivoire,Africa,58
+2013,Cuba,North America,6
+2013,Djibouti,Africa,9
+2013,Dominican Republic,North America,4
+2013,Ecuador,South America,25
+2013,Egypt,Africa,293
+2013,El Salvador,North America,181
+2013,Eritrea,Africa,234
+2013,Ethiopia,Africa,387
+2013,Fiji,Oceania,0
+2013,Gambia,Africa,74
+2013,Georgia,Asia,10
+2013,Ghana,Africa,10
+2013,Guatemala,North America,149
+2013,Guinea,Africa,92
+2013,Haiti,North America,54
+2013,Honduras,North America,93
+2013,India,Asia,311
+2013,Indonesia,Asia,75
+2013,Iran,Asia,57
+2013,Iraq,Asia,52
+2013,Jamaica,North America,5
+2013,Jordan,Asia,13
+2013,Kazakhstan,Asia,28
+2013,Kenya,Africa,38
+2013,Kosovo,Europe,34
+2013,Kyrgyzstan,Asia,36
+2013,Lebanon,Asia,17
+2013,Liberia,Africa,10
+2013,Libya,Africa,0
+2013,Mali,Africa,74
+2013,Mauritania,Africa,39
+2013,Mexico,North America,154
+2013,Moldova,Europe,73
+2013,Mongolia,Asia,40
+2013,Nepal,Asia,385
+2013,Nicaragua,North America,17
+2013,Nigeria,Africa,29
+2013,Pakistan,Asia,122
+2013,Peru,South America,8
+2013,Philippines,Asia,4
+2013,Romania,Europe,38
+2013,Russia,Europe,192
+2013,Rwanda,Africa,28
+2013,Saudi Arabia,Asia,7
+2013,Senegal,Africa,19
+2013,Serbia and Montenegro (former),Europe,49
+2013,Sierra Leone,Africa,11
+2013,Somalia,Africa,81
+2013,Soviet Union (former),Europe,228
+2013,Sri Lanka,Asia,96
+2013,Sudan,Africa,32
+2013,Syria,Asia,46
+2013,Tajikistan,Asia,13
+2013,Togo,Africa,14
+2013,Turkey,Europe,0
+2013,Turkmenistan,Asia,0
+2013,Uganda,Africa,27
+2013,Ukraine,Europe,55
+2013,Uzbekistan,Asia,54
+2013,Venezuela,South America,76
+2013,Vietnam,Asia,4
+2013,Yemen,Asia,9
+2013,Zimbabwe,Africa,20
+2013,All other countries1,Unknown,119
+2013,Unknown,Unknown,44
+2014,Total,,8636
+2014,Afghanistan,Asia,18
+2014,Albania,Europe,64
+2014,Angola,Africa,0
+2014,Armenia,Asia,49
+2014,Azerbaijan,Asia,10
+2014,Bangladesh,Asia,51
+2014,Belarus,Europe,54
+2014,Benin,Africa,4
+2014,Bolivia,South America,0
+2014,Brazil,South America,5
+2014,Bulgaria,Europe,10
+2014,Burkina Faso,Africa,60
+2014,Burma,Asia,24
+2014,Burundi,Africa,31
+2014,Cameroon,Africa,110
+2014,Central African Republic,Africa,0
+2014,Chad,Africa,7
+2014,"China, People's Republic",Asia,3981
+2014,Colombia,South America,67
+2014,"Congo, Democratic Republic",Africa,25
+2014,"Congo, Republic",Africa,21
+2014,Cote d'Ivoire,Africa,47
+2014,Cuba,North America,9
+2014,Djibouti,Africa,0
+2014,Dominican Republic,North America,11
+2014,Ecuador,South America,19
+2014,Egypt,Africa,240
+2014,El Salvador,North America,187
+2014,Eritrea,Africa,162
+2014,Ethiopia,Africa,317
+2014,Fiji,Oceania,0
+2014,Gambia,Africa,76
+2014,Georgia,Asia,13
+2014,Ghana,Africa,14
+2014,Guatemala,North America,164
+2014,Guinea,Africa,57
+2014,Haiti,North America,50
+2014,Honduras,North America,151
+2014,India,Asia,368
+2014,Indonesia,Asia,47
+2014,Iran,Asia,58
+2014,Iraq,Asia,79
+2014,Jamaica,North America,5
+2014,Jordan,Asia,6
+2014,Kazakhstan,Asia,31
+2014,Kenya,Africa,49
+2014,Kosovo,Europe,28
+2014,Kyrgyzstan,Asia,35
+2014,Lebanon,Asia,4
+2014,Liberia,Africa,13
+2014,Libya,Africa,0
+2014,Mali,Africa,56
+2014,Mauritania,Africa,24
+2014,Mexico,North America,105
+2014,Moldova,Europe,70
+2014,Mongolia,Asia,21
+2014,Nepal,Asia,282
+2014,Nicaragua,North America,15
+2014,Nigeria,Africa,59
+2014,Pakistan,Asia,96
+2014,Peru,South America,13
+2014,Philippines,Asia,0
+2014,Romania,Europe,20
+2014,Russia,Europe,115
+2014,Rwanda,Africa,43
+2014,Saudi Arabia,Asia,7
+2014,Senegal,Africa,16
+2014,Serbia and Montenegro (former),Europe,31
+2014,Sierra Leone,Africa,10
+2014,Somalia,Africa,117
+2014,Soviet Union (former),Europe,158
+2014,Sri Lanka,Asia,74
+2014,Sudan,Africa,14
+2014,Syria,Asia,65
+2014,Tajikistan,Asia,13
+2014,Togo,Africa,11
+2014,Turkey,Europe,0
+2014,Turkmenistan,Asia,4
+2014,Uganda,Africa,24
+2014,Ukraine,Europe,55
+2014,Uzbekistan,Asia,37
+2014,Venezuela,South America,90
+2014,Vietnam,Asia,4
+2014,Yemen,Asia,18
+2014,Zimbabwe,Africa,7
+2014,All other countries1,Unknown,81
+2014,Unknown,Unknown,0
+2015,Total,,8140
+2015,Afghanistan,Asia,14
+2015,Albania,Europe,75
+2015,Angola,Africa,0
+2015,Armenia,Asia,21
+2015,Azerbaijan,Asia,11
+2015,Bangladesh,Asia,92
+2015,Belarus,Europe,34
+2015,Benin,Africa,10
+2015,Bolivia,South America,0
+2015,Brazil,South America,0
+2015,Bulgaria,Europe,0
+2015,Burkina Faso,Africa,51
+2015,Burma,Asia,20
+2015,Burundi,Africa,18
+2015,Cameroon,Africa,92
+2015,Central African Republic,Africa,0
+2015,Chad,Africa,0
+2015,"China, People's Republic",Asia,3585
+2015,Colombia,South America,51
+2015,"Congo, Democratic Republic",Africa,22
+2015,"Congo, Republic",Africa,16
+2015,Cote d'Ivoire,Africa,36
+2015,Cuba,North America,11
+2015,Djibouti,Africa,12
+2015,Dominican Republic,North America,6
+2015,Ecuador,South America,43
+2015,Egypt,Africa,148
+2015,El Salvador,North America,300
+2015,Eritrea,Africa,138
+2015,Ethiopia,Africa,252
+2015,Fiji,Oceania,0
+2015,Gambia,Africa,51
+2015,Georgia,Asia,8
+2015,Ghana,Africa,36
+2015,Guatemala,North America,363
+2015,Guinea,Africa,43
+2015,Haiti,North America,62
+2015,Honduras,North America,303
+2015,India,Asia,301
+2015,Indonesia,Asia,19
+2015,Iran,Asia,37
+2015,Iraq,Asia,52
+2015,Jamaica,North America,7
+2015,Jordan,Asia,5
+2015,Kazakhstan,Asia,16
+2015,Kenya,Africa,21
+2015,Kosovo,Europe,18
+2015,Kyrgyzstan,Asia,48
+2015,Lebanon,Asia,0
+2015,Liberia,Africa,6
+2015,Libya,Africa,0
+2015,Mali,Africa,33
+2015,Mauritania,Africa,29
+2015,Mexico,North America,200
+2015,Moldova,Europe,40
+2015,Mongolia,Asia,6
+2015,Nepal,Asia,250
+2015,Nicaragua,North America,20
+2015,Nigeria,Africa,64
+2015,Pakistan,Asia,55
+2015,Peru,South America,19
+2015,Philippines,Asia,0
+2015,Romania,Europe,28
+2015,Russia,Europe,100
+2015,Rwanda,Africa,15
+2015,Saudi Arabia,Asia,4
+2015,Senegal,Africa,18
+2015,Serbia and Montenegro (former),Europe,17
+2015,Sierra Leone,Africa,4
+2015,Somalia,Africa,177
+2015,Soviet Union (former),Europe,159
+2015,Sri Lanka,Asia,46
+2015,Sudan,Africa,21
+2015,Syria,Asia,104
+2015,Tajikistan,Asia,8
+2015,Togo,Africa,10
+2015,Turkey,Europe,14
+2015,Turkmenistan,Asia,4
+2015,Uganda,Africa,11
+2015,Ukraine,Europe,41
+2015,Uzbekistan,Asia,25
+2015,Venezuela,South America,32
+2015,Vietnam,Asia,0
+2015,Yemen,Asia,7
+2015,Zimbabwe,Africa,0
+2015,All other countries1,Unknown,74
+2015,Unknown,Unknown,0
+2016,Total,,8693
+2016,Afghanistan,Asia,23
+2016,Albania,Europe,94
+2016,Angola,Africa,6
+2016,Armenia,Asia,18
+2016,Azerbaijan,Asia,0
+2016,Bangladesh,Asia,91
+2016,Belarus,Europe,25
+2016,Benin,Africa,0
+2016,Bolivia,South America,0
+2016,Brazil,South America,5
+2016,Bulgaria,Europe,6
+2016,Burkina Faso,Africa,71
+2016,Burma,Asia,16
+2016,Burundi,Africa,28
+2016,Cameroon,Africa,114
+2016,Central African Republic,Africa,0
+2016,Chad,Africa,4
+2016,"China, People's Republic",Asia,3077
+2016,Colombia,South America,24
+2016,"Congo, Democratic Republic",Africa,8
+2016,"Congo, Republic",Africa,33
+2016,Cote d'Ivoire,Africa,17
+2016,Cuba,North America,7
+2016,Djibouti,Africa,0
+2016,Dominican Republic,North America,8
+2016,Ecuador,South America,39
+2016,Egypt,Africa,148
+2016,El Salvador,North America,758
+2016,Eritrea,Africa,151
+2016,Ethiopia,Africa,185
+2016,Fiji,Oceania,0
+2016,Gambia,Africa,45
+2016,Georgia,Asia,9
+2016,Ghana,Africa,65
+2016,Guatemala,North America,631
+2016,Guinea,Africa,49
+2016,Haiti,North America,27
+2016,Honduras,North America,620
+2016,India,Asia,308
+2016,Indonesia,Asia,10
+2016,Iran,Asia,56
+2016,Iraq,Asia,26
+2016,Jamaica,North America,7
+2016,Jordan,Asia,0
+2016,Kazakhstan,Asia,15
+2016,Kenya,Africa,11
+2016,Kosovo,Europe,19
+2016,Kyrgyzstan,Asia,48
+2016,Lebanon,Asia,6
+2016,Liberia,Africa,9
+2016,Libya,Africa,5
+2016,Mali,Africa,25
+2016,Mauritania,Africa,13
+2016,Mexico,North America,456
+2016,Moldova,Europe,32
+2016,Mongolia,Asia,8
+2016,Nepal,Asia,260
+2016,Nicaragua,North America,19
+2016,Nigeria,Africa,66
+2016,Pakistan,Asia,69
+2016,Peru,South America,17
+2016,Philippines,Asia,0
+2016,Romania,Europe,37
+2016,Russia,Europe,81
+2016,Rwanda,Africa,19
+2016,Saudi Arabia,Asia,7
+2016,Senegal,Africa,7
+2016,Serbia and Montenegro (former),Europe,0
+2016,Sierra Leone,Africa,4
+2016,Somalia,Africa,154
+2016,Soviet Union (former),Europe,NA
+2016,Sri Lanka,Asia,32
+2016,Sudan,Africa,25
+2016,Syria,Asia,77
+2016,Tajikistan,Asia,10
+2016,Togo,Africa,0
+2016,Turkey,Europe,0
+2016,Turkmenistan,Asia,0
+2016,Uganda,Africa,14
+2016,Ukraine,Europe,48
+2016,Uzbekistan,Asia,15
+2016,Venezuela,South America,27
+2016,Vietnam,Asia,0
+2016,Yemen,Asia,9
+2016,Zimbabwe,Africa,0
+2016,All other countries1,Unknown,55
+2016,Unknown,Unknown,153
+2017,Total,,10565
+2017,Afghanistan,Asia,28
+2017,Albania,Europe,118
+2017,Angola,Africa,11
+2017,Armenia,Asia,36
+2017,Azerbaijan,Asia,14
+2017,Bangladesh,Asia,120
+2017,Belarus,Europe,25
+2017,Benin,Africa,0
+2017,Bolivia,South America,0
+2017,Brazil,South America,10
+2017,Bulgaria,Europe,0
+2017,Burkina Faso,Africa,78
+2017,Burma,Asia,10
+2017,Burundi,Africa,20
+2017,Cameroon,Africa,219
+2017,Central African Republic,Africa,7
+2017,Chad,Africa,10
+2017,"China, People's Republic",Asia,2731
+2017,Colombia,South America,38
+2017,"Congo, Democratic Republic",Africa,32
+2017,"Congo, Republic",Africa,24
+2017,Cote d'Ivoire,Africa,19
+2017,Cuba,North America,62
+2017,Djibouti,Africa,11
+2017,Dominican Republic,North America,6
+2017,Ecuador,South America,77
+2017,Egypt,Africa,140
+2017,El Salvador,North America,1343
+2017,Eritrea,Africa,238
+2017,Ethiopia,Africa,155
+2017,Fiji,Oceania,0
+2017,Gambia,Africa,32
+2017,Georgia,Asia,11
+2017,Ghana,Africa,74
+2017,Guatemala,North America,953
+2017,Guinea,Africa,79
+2017,Haiti,North America,91
+2017,Honduras,North America,956
+2017,India,Asia,457
+2017,Indonesia,Asia,11
+2017,Iran,Asia,51
+2017,Iraq,Asia,45
+2017,Jamaica,North America,8
+2017,Jordan,Asia,0
+2017,Kazakhstan,Asia,30
+2017,Kenya,Africa,14
+2017,Kosovo,Europe,32
+2017,Kyrgyzstan,Asia,37
+2017,Lebanon,Asia,4
+2017,Liberia,Africa,8
+2017,Libya,Africa,5
+2017,Mali,Africa,31
+2017,Mauritania,Africa,20
+2017,Mexico,North America,551
+2017,Moldova,Europe,30
+2017,Mongolia,Asia,5
+2017,Nepal,Asia,290
+2017,Nicaragua,North America,27
+2017,Nigeria,Africa,70
+2017,Pakistan,Asia,93
+2017,Peru,South America,19
+2017,Philippines,Asia,0
+2017,Romania,Europe,38
+2017,Russia,Europe,59
+2017,Rwanda,Africa,22
+2017,Saudi Arabia,Asia,10
+2017,Senegal,Africa,23
+2017,Serbia and Montenegro (former),Europe,5
+2017,Sierra Leone,Africa,10
+2017,Somalia,Africa,90
+2017,Soviet Union (former),Europe,NA
+2017,Sri Lanka,Asia,41
+2017,Sudan,Africa,25
+2017,Syria,Asia,145
+2017,Tajikistan,Asia,6
+2017,Togo,Africa,13
+2017,Turkey,Europe,13
+2017,Turkmenistan,Asia,4
+2017,Uganda,Africa,19
+2017,Ukraine,Europe,68
+2017,Uzbekistan,Asia,32
+2017,Venezuela,South America,68
+2017,Vietnam,Asia,0
+2017,Yemen,Asia,4
+2017,Zimbabwe,Africa,13
+2017,All other countries1,Unknown,69
+2017,Unknown,Unknown,0
+2018,Total,,13197
+2018,Afghanistan,Asia,28
+2018,Albania,Europe,180
+2018,Angola,Africa,19
+2018,Armenia,Asia,58
+2018,Azerbaijan,Asia,21
+2018,Bangladesh,Asia,287
+2018,Belarus,Europe,38
+2018,Benin,Africa,0
+2018,Bolivia,South America,0
+2018,Brazil,South America,21
+2018,Bulgaria,Europe,4
+2018,Burkina Faso,Africa,63
+2018,Burma,Asia,15
+2018,Burundi,Africa,22
+2018,Cameroon,Africa,312
+2018,Central African Republic,Africa,11
+2018,Chad,Africa,7
+2018,"China, People's Republic",Asia,3048
+2018,Colombia,South America,40
+2018,"Congo, Democratic Republic",Africa,50
+2018,"Congo, Republic",Africa,40
+2018,Cote d'Ivoire,Africa,23
+2018,Cuba,North America,161
+2018,Djibouti,Africa,6
+2018,Dominican Republic,North America,8
+2018,Ecuador,South America,119
+2018,Egypt,Africa,164
+2018,El Salvador,North America,1773
+2018,Eritrea,Africa,271
+2018,Ethiopia,Africa,121
+2018,Fiji,Oceania,0
+2018,Gambia,Africa,32
+2018,Georgia,Asia,8
+2018,Ghana,Africa,36
+2018,Guatemala,North America,1018
+2018,Guinea,Africa,85
+2018,Haiti,North America,49
+2018,Honduras,North America,1181
+2018,India,Asia,951
+2018,Indonesia,Asia,17
+2018,Iran,Asia,53
+2018,Iraq,Asia,74
+2018,Jamaica,North America,10
+2018,Jordan,Asia,7
+2018,Kazakhstan,Asia,25
+2018,Kenya,Africa,22
+2018,Kosovo,Europe,31
+2018,Kyrgyzstan,Asia,64
+2018,Lebanon,Asia,8
+2018,Liberia,Africa,12
+2018,Libya,Africa,0
+2018,Mali,Africa,32
+2018,Mauritania,Africa,13
+2018,Mexico,North America,631
+2018,Moldova,Europe,38
+2018,Mongolia,Asia,15
+2018,Nepal,Asia,470
+2018,Nicaragua,North America,35
+2018,Nigeria,Africa,53
+2018,Pakistan,Asia,135
+2018,Peru,South America,26
+2018,Philippines,Asia,11
+2018,Romania,Europe,44
+2018,Russia,Europe,118
+2018,Rwanda,Africa,39
+2018,Saudi Arabia,Asia,9
+2018,Senegal,Africa,12
+2018,Serbia and Montenegro (former),Europe,0
+2018,Sierra Leone,Africa,21
+2018,Somalia,Africa,41
+2018,Soviet Union (former),Europe,NA
+2018,Sri Lanka,Asia,56
+2018,Sudan,Africa,25
+2018,Syria,Asia,157
+2018,Tajikistan,Asia,15
+2018,Togo,Africa,11
+2018,Turkey,Europe,26
+2018,Turkmenistan,Asia,8
+2018,Uganda,Africa,28
+2018,Ukraine,Europe,106
+2018,Uzbekistan,Asia,45
+2018,Venezuela,South America,123
+2018,Vietnam,Asia,6
+2018,Yemen,Asia,21
+2018,Zimbabwe,Africa,8
+2018,All other countries1,Unknown,82
+2018,Unknown,Unknown,0
+2019,Total,,18909
+2019,Afghanistan,Asia,31
+2019,Albania,Europe,122
+2019,Angola,Africa,29
+2019,Armenia,Asia,106
+2019,Azerbaijan,Asia,21
+2019,Bangladesh,Asia,367
+2019,Belarus,Europe,37
+2019,Benin,Africa,0
+2019,Bolivia,South America,11
+2019,Brazil,South America,38
+2019,Bulgaria,Europe,10
+2019,Burkina Faso,Africa,81
+2019,Burma,Asia,26
+2019,Burundi,Africa,47
+2019,Cameroon,Africa,659
+2019,Central African Republic,Africa,0
+2019,Chad,Africa,17
+2019,"China, People's Republic",Asia,3459
+2019,Colombia,South America,46
+2019,"Congo, Democratic Republic",Africa,56
+2019,"Congo, Republic",Africa,30
+2019,Cote d'Ivoire,Africa,30
+2019,Cuba,North America,711
+2019,Djibouti,Africa,10
+2019,Dominican Republic,North America,6
+2019,Ecuador,South America,121
+2019,Egypt,Africa,146
+2019,El Salvador,North America,2321
+2019,Eritrea,Africa,320
+2019,Ethiopia,Africa,181
+2019,Fiji,Oceania,6
+2019,Gambia,Africa,24
+2019,Georgia,Asia,34
+2019,Ghana,Africa,48
+2019,Guatemala,North America,1545
+2019,Guinea,Africa,87
+2019,Haiti,North America,77
+2019,Honduras,North America,1291
+2019,India,Asia,1929
+2019,Indonesia,Asia,27
+2019,Iran,Asia,107
+2019,Iraq,Asia,105
+2019,Jamaica,North America,15
+2019,Jordan,Asia,29
+2019,Kazakhstan,Asia,27
+2019,Kenya,Africa,28
+2019,Kosovo,Europe,43
+2019,Kyrgyzstan,Asia,80
+2019,Lebanon,Asia,28
+2019,Liberia,Africa,15
+2019,Libya,Africa,14
+2019,Mali,Africa,26
+2019,Mauritania,Africa,26
+2019,Mexico,North America,802
+2019,Moldova,Europe,76
+2019,Mongolia,Asia,34
+2019,Nepal,Asia,606
+2019,Nicaragua,North America,357
+2019,Nigeria,Africa,194
+2019,Pakistan,Asia,181
+2019,Peru,South America,46
+2019,Philippines,Asia,7
+2019,Romania,Europe,40
+2019,Russia,Europe,299
+2019,Rwanda,Africa,28
+2019,Saudi Arabia,Asia,10
+2019,Senegal,Africa,14
+2019,Serbia and Montenegro (former),Europe,0
+2019,Sierra Leone,Africa,21
+2019,Somalia,Africa,32
+2019,Soviet Union (former),Europe,NA
+2019,Sri Lanka,Asia,70
+2019,Sudan,Africa,37
+2019,Syria,Asia,135
+2019,Tajikistan,Asia,14
+2019,Togo,Africa,13
+2019,Turkey,Europe,60
+2019,Turkmenistan,Asia,12
+2019,Uganda,Africa,59
+2019,Ukraine,Europe,142
+2019,Uzbekistan,Asia,89
+2019,Venezuela,South America,501
+2019,Vietnam,Asia,36
+2019,Yemen,Asia,21
+2019,Zimbabwe,Africa,12
+2019,All other countries1,Unknown,105
+2019,Unknown,Unknown,200
+2020,Total,,14601
+2020,Afghanistan,Asia,20
+2020,Albania,Europe,79
+2020,Angola,Africa,22
+2020,Armenia,Asia,61
+2020,Azerbaijan,Asia,13
+2020,Bangladesh,Asia,290
+2020,Belarus,Europe,24
+2020,Benin,Africa,0
+2020,Bolivia,South America,0
+2020,Brazil,South America,50
+2020,Bulgaria,Europe,0
+2020,Burkina Faso,Africa,58
+2020,Burma,Asia,12
+2020,Burundi,Africa,16
+2020,Cameroon,Africa,591
+2020,Central African Republic,Africa,0
+2020,Chad,Africa,5
+2020,"China, People's Republic",Asia,1950
+2020,Colombia,South America,37
+2020,"Congo, Democratic Republic",Africa,42
+2020,"Congo, Republic",Africa,18
+2020,Cote d'Ivoire,Africa,20
+2020,Cuba,North America,1227
+2020,Djibouti,Africa,6
+2020,Dominican Republic,North America,22
+2020,Ecuador,South America,103
+2020,Egypt,Africa,111
+2020,El Salvador,North America,1731
+2020,Eritrea,Africa,122
+2020,Ethiopia,Africa,74
+2020,Fiji,Oceania,0
+2020,Gambia,Africa,8
+2020,Georgia,Asia,31
+2020,Ghana,Africa,28
+2020,Guatemala,North America,1437
+2020,Guinea,Africa,33
+2020,Haiti,North America,47
+2020,Honduras,North America,1016
+2020,India,Asia,1179
+2020,Indonesia,Asia,27
+2020,Iran,Asia,56
+2020,Iraq,Asia,94
+2020,Jamaica,North America,4
+2020,Jordan,Asia,8
+2020,Kazakhstan,Asia,20
+2020,Kenya,Africa,26
+2020,Kosovo,Europe,15
+2020,Kyrgyzstan,Asia,55
+2020,Lebanon,Asia,5
+2020,Liberia,Africa,18
+2020,Libya,Africa,14
+2020,Mali,Africa,11
+2020,Mauritania,Africa,22
+2020,Mexico,North America,719
+2020,Moldova,Europe,38
+2020,Mongolia,Asia,11
+2020,Nepal,Asia,308
+2020,Nicaragua,North America,364
+2020,Nigeria,Africa,154
+2020,Pakistan,Asia,92
+2020,Peru,South America,17
+2020,Philippines,Asia,8
+2020,Romania,Europe,31
+2020,Russia,Europe,245
+2020,Rwanda,Africa,24
+2020,Saudi Arabia,Asia,11
+2020,Senegal,Africa,11
+2020,Serbia and Montenegro (former),Europe,4
+2020,Sierra Leone,Africa,8
+2020,Somalia,Africa,16
+2020,Soviet Union (former),Europe,NA
+2020,Sri Lanka,Asia,57
+2020,Sudan,Africa,9
+2020,Syria,Asia,62
+2020,Tajikistan,Asia,11
+2020,Togo,Africa,10
+2020,Turkey,Europe,54
+2020,Turkmenistan,Asia,5
+2020,Uganda,Africa,46
+2020,Ukraine,Europe,83
+2020,Uzbekistan,Asia,90
+2020,Venezuela,South America,890
+2020,Vietnam,Asia,89
+2020,Yemen,Asia,20
+2020,Zimbabwe,Africa,8
+2020,All other countries1,Unknown,98
+2020,Unknown,Unknown,143
+2021,Total,,7367
+2021,Afghanistan,Asia,11
+2021,Albania,Europe,28
+2021,Angola,Africa,24
+2021,Armenia,Asia,38
+2021,Azerbaijan,Asia,22
+2021,Bangladesh,Asia,108
+2021,Belarus,Europe,36
+2021,Benin,Africa,0
+2021,Bolivia,South America,0
+2021,Brazil,South America,30
+2021,Bulgaria,Europe,4
+2021,Burkina Faso,Africa,20
+2021,Burma,Asia,21
+2021,Burundi,Africa,7
+2021,Cameroon,Africa,142
+2021,Central African Republic,Africa,0
+2021,Chad,Africa,0
+2021,"China, People's Republic",Asia,780
+2021,Colombia,South America,47
+2021,"Congo, Democratic Republic",Africa,26
+2021,"Congo, Republic",Africa,13
+2021,Cote d'Ivoire,Africa,7
+2021,Cuba,North America,95
+2021,Djibouti,Africa,0
+2021,Dominican Republic,North America,4
+2021,Ecuador,South America,47
+2021,Egypt,Africa,70
+2021,El Salvador,North America,1149
+2021,Eritrea,Africa,72
+2021,Ethiopia,Africa,59
+2021,Fiji,Oceania,0
+2021,Gambia,Africa,5
+2021,Georgia,Asia,23
+2021,Ghana,Africa,14
+2021,Guatemala,North America,880
+2021,Guinea,Africa,23
+2021,Haiti,North America,28
+2021,Honduras,North America,603
+2021,India,Asia,629
+2021,Indonesia,Asia,9
+2021,Iran,Asia,36
+2021,Iraq,Asia,73
+2021,Jamaica,North America,4
+2021,Jordan,Asia,8
+2021,Kazakhstan,Asia,21
+2021,Kenya,Africa,12
+2021,Kosovo,Europe,13
+2021,Kyrgyzstan,Asia,30
+2021,Lebanon,Asia,12
+2021,Liberia,Africa,6
+2021,Libya,Africa,0
+2021,Mali,Africa,11
+2021,Mauritania,Africa,10
+2021,Mexico,North America,367
+2021,Moldova,Europe,27
+2021,Mongolia,Asia,8
+2021,Nepal,Asia,143
+2021,Nicaragua,North America,163
+2021,Nigeria,Africa,130
+2021,Pakistan,Asia,55
+2021,Peru,South America,9
+2021,Philippines,Asia,4
+2021,Romania,Europe,29
+2021,Russia,Europe,156
+2021,Rwanda,Africa,24
+2021,Saudi Arabia,Asia,6
+2021,Senegal,Africa,6
+2021,Serbia and Montenegro (former),Europe,NA
+2021,Sierra Leone,Africa,4
+2021,Somalia,Africa,11
+2021,Soviet Union (former),Europe,NA
+2021,Sri Lanka,Asia,14
+2021,Sudan,Africa,23
+2021,Syria,Asia,41
+2021,Tajikistan,Asia,8
+2021,Togo,Africa,6
+2021,Turkey,Europe,52
+2021,Turkmenistan,Asia,0
+2021,Uganda,Africa,30
+2021,Ukraine,Europe,59
+2021,Uzbekistan,Asia,29
+2021,Venezuela,South America,472
+2021,Vietnam,Asia,45
+2021,Yemen,Asia,13
+2021,Zimbabwe,Africa,0
+2021,All other countries1,Unknown,63
+2021,Unknown,Unknown,51
